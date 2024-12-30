@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1704825735092_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1704825735116_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1735544981344_3" label="Java files" name="Java files">
+<item elementID="=Snake" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=CoreJava1stclass" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=PracticeAdvanceJava" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Duplicate" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=UserManagement" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/DemoEnterprise" type="4"/>
+<item elementID="=signup" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Servers" type="4"/>
+<item elementID="=Swiggy" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=CoreJavaMaven1stclass" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=DemoServletAr" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1735544996799_4" label="java workingset" name="java workingset">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CoreJava1stclass" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CoreJavaMaven1stclass" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/DemoEnterprise" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/DemoServletAr" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Duplicate" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/PracticeAdvanceJava" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Servers" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Snake" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Swiggy" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/UserManagement" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/signup" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1704825736955_2" label="Window Working Set" name="Aggregate for window 1704825736955"/>
+<mruList name="java workingset"/>
+<mruList name="Java files"/>
+</workingSetManager>

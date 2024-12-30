@@ -1,0 +1,10 @@
+127.0.0.1 - - [15/May/2024:08:26:18 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/May/2024:08:26:19 +0530] "GET /UserManagement/ HTTP/1.1" 200 6687
+0:0:0:0:0:0:0:1 - - [15/May/2024:08:26:19 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [15/May/2024:08:26:24 +0530] "GET /UserManagement/new HTTP/1.1" 200 1786
+0:0:0:0:0:0:0:1 - - [15/May/2024:08:26:32 +0530] "GET /UserManagement/new HTTP/1.1" 200 1786
+0:0:0:0:0:0:0:1 - - [15/May/2024:08:27:00 +0530] "POST /UserManagement/insert HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/May/2024:08:27:00 +0530] "GET /UserManagement/list HTTP/1.1" 200 7598
+0:0:0:0:0:0:0:1 - - [15/May/2024:08:27:04 +0530] "GET /UserManagement/edit?id=11 HTTP/1.1" 200 1872
+0:0:0:0:0:0:0:1 - - [15/May/2024:08:27:07 +0530] "POST /UserManagement/update HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/May/2024:08:27:07 +0530] "GET /UserManagement/list HTTP/1.1" 200 7598

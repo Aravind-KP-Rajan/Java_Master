@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/Aravind-KP-Rajan/Java_Master.git"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="Aravind-KP-Rajan &lt;aravind777kp@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Aravind-KP-Rajan &lt;aravind777kp@gmail.com&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\aravi\eclipse-workspace\DemoServletAr\.git">
+			<item value="false"/>
+			<item value="Aravind-KP-Rajan &lt;aravind777kp@gmail.com&gt;"/>
+			<item value="efef"/>
+			<item value="Aravind-KP-Rajan &lt;aravind777kp@gmail.com&gt;"/>
+			<item value="9860243df28dffd48978ede9c1dd6acbe8f12907"/>
+			<item value="0"/>
+			<item value="false"/>
+			<item value=""/>
+		</list>
+	</section>
+</section>

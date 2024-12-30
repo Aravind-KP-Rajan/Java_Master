@@ -1,0 +1,5 @@
+#Thu Feb 22 13:35:44 IST 2024
+__DEFAULT__=false
+expression=StatusLogger
+org.eclipse.help.ui.localSearch.master=true
+org.eclipse.sdk.Eclipse.master=true
